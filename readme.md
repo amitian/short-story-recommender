@@ -39,7 +39,7 @@ The initial data included the story’s url, author, title, date of publication 
 
 ### Recommender
 
-- Given a short story, the recommender can return a list of short story recommendations based on the cosine similarity of topics, style group, and author.
+Given a short story, the recommender can return a list of short story recommendations based on the cosine similarity of topics, style group, and author. Users can also adjust the weights of these criteria based on their own preferences.
 
 ## Tools
 
