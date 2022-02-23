@@ -61,4 +61,4 @@ The initial data included the story’s url, author, title, date of publication 
 
 ## Communication
 
-See GitHub for a .pdf file of the Google Slides presentation
+See https://github.com/amitian/short-story-recommender for a .pdf file of the Google Slides presentation
