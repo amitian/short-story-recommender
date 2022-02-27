@@ -59,6 +59,12 @@ Given a short story, the recommender can return a list of short story recommenda
 5. Clustering
 6. Recommendation System
 
-## Communication
+## Results
 
-See https://github.com/amitian/short-story-recommender for a .pdf file of the Google Slides presentation
+Clustering to find writing style of each short story (using Alice Munro stories):
+![newplot](https://user-images.githubusercontent.com/81931093/155864272-0c23e46b-328a-47de-9e2d-a7cd42fc9395.png)
+
+Recommender in action--recommending 5 short stories similar to "Unread Messages" by Sally Rooney:
+![Screen Shot 2022-02-26 at 8 19 33 PM](https://user-images.githubusercontent.com/81931093/155864320-f5dcdb69-5f91-400c-9543-bef491f513b7.png)
+
+See "NLP Short Story Recommender.pdf" for a .pdf file of the Google Slides presentation with more info about the project!
